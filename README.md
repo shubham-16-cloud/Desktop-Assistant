@@ -6,6 +6,7 @@
 	However, I have also use textfile and JSON to read the user data like user credentials, greeting contents.</h4>
   
  <b>Demo Video:</b>
- <video>
- <iframe width="560" height="315" src="https://www.youtube.com/embed/6YqSKRUUtZE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- </video>
+ 
+ <a href="https://www.youtube.com/embed/6YqSKRUUtZE">
+ <img src="file/thub.png" alt="image">
+</a>
