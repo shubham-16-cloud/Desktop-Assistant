@@ -8,5 +8,5 @@
  <b>Demo Video:</b>
  
  <a href="https://www.youtube.com/embed/6YqSKRUUtZE">
- <img src="file/thub.png" alt="image">
+ <img src="files/thub.png" alt="image">
 </a>
