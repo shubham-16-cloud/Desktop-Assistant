@@ -1,0 +1,10 @@
+//here you wan to add credential
+//like username=["prefix","password"]
+//prefix means
+//instagram =in
+//facebook = fb
+//linkedin = li
+//email = em
+// if you get any error please remove the comments
+
+{"u": ["test", "test123456"], "username": ["in", "password"], "any_123": ["test", "1234"],"1234567890":["fb","password"]}
